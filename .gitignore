@@ -1,0 +1,12 @@
+# Python byte-compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos temporales de pruebas automatizadas
+**/test_*.json
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+*.tmp

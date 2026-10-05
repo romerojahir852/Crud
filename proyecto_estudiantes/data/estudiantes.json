@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "nombre": "Ana",
+    "apellido": "Pérez",
+    "email": "ana@escuela.edu",
+    "carnet": "EST2026001",
+    "notas": {
+      "Matemática": [18.0, 19.0, 20.0],
+      "Inglés": [16.0, 17.0]
+    },
+    "materias": [
+      "Inglés",
+      "Matemática"
+    ]
+  },
+  {
+    "id": 2,
+    "nombre": "Luis",
+    "apellido": "García",
+    "email": "luis@escuela.edu",
+    "carnet": "EST2026002",
+    "notas": {
+      "Inglés": [15.0, 18.0],
+      "Física": [16.5, 17.0]
+    },
+    "materias": [
+      "Física",
+      "Inglés"
+    ]
+  },
+  {
+    "id": 3,
+    "nombre": "María",
+    "apellido": "Torres",
+    "email": "maria@escuela.edu",
+    "carnet": "EST2026003",
+    "notas": {
+      "Matemática": [19.5, 20.0],
+      "Química": [18.0, 19.0]
+    },
+    "materias": [
+      "Matemática",
+      "Química"
+    ]
+  }
+]

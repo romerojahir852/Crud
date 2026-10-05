@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "nombre": "Ana",
+    "apellido": "Pérez",
+    "email": "ana@ejemplo.com",
+    "telefono": "0987654321",
+    "ciudad": "Guayaquil",
+    "direccion": "Av. Principal 123"
+  },
+  {
+    "id": 2,
+    "nombre": "Luis",
+    "apellido": "García",
+    "email": "luis@ejemplo.com",
+    "telefono": "0911223344",
+    "ciudad": "Milagro",
+    "direccion": "Calle 5 y Pichincha"
+  },
+  {
+    "id": 3,
+    "nombre": "María",
+    "apellido": "Torres",
+    "email": "maria@ejemplo.com",
+    "telefono": "0998877665",
+    "ciudad": "Quito",
+    "direccion": "Av. Amazonas 456"
+  }
+]
